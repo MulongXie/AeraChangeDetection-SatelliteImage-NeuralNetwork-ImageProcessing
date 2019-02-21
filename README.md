@@ -2,7 +2,7 @@
  Redirect Link: https://gitlab.cecs.anu.edu.au/u5686023/Eagle
  
  
- Through high-precision satellite images, 
+ Through high-resolution satellite images, 
   - various changes (number of new buildings, the degree of tree felling, etc.) 
   - of any available location 
   - within given time interval
